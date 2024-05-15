@@ -80,7 +80,7 @@ else:
 
 ### Output:
 
-![output]()
+![output](https://github.com/jhansi21005096/19AI405ProjExp/blob/main/outtttt.png)
 
 
 ### Result:
